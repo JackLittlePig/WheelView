@@ -15,7 +15,7 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private static final String TAG = MainActivity.class.getSimpleName();
-    private static final String[] PLANETS = new String[]{"Mercury", "Venus", "Earth", "Mars", "Jupiter", "Uranus", "Neptune", "Pluto"};
+    private static final String[] PLANETS = new String[]{"1", "2", "3", "4", "5", "6", "7", "8"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
